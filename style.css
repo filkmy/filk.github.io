@@ -1,0 +1,20 @@
+* {
+  text-align: center;
+}
+
+body {
+  background-color: #8066ff;
+}
+
+button {
+  color: white;
+  background-color: #8066ff;
+  border: solid 1.4px white;
+  border-radius: 8px;
+  width: 24px;
+  height: 24px;
+}
+
+h3, p {
+  color: white;
+}
